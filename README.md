@@ -6,7 +6,7 @@
 
 This project was made as part of us learning to talk to the client and complete their vision for the project.
 
-We were tasked to create from scrapt a program to help the client estimate the cost and number of panels needed to create an instalation for their client. It was only meant to be a proof of Concept, which would allow us to show the client what could the full software look like.
+We were tasked to create from scrapt a program to help the client estimate the cost and number of panels needed to create an instalation for their client. It was only meant to be a Proof of Concept, which would allow us to show the client what could the full software look like.
 
 
 
@@ -21,8 +21,6 @@ Original git tracking was lost due to the project being hosted on universities g
 
 
 Technologies used: Java, JavaFX
-
-# 
 
 # SolarPrototype
 
