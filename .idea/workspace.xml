@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SolarPrototype:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45b3fad7-51c8-483c-a20e-ee831a9a672c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SolarPrototype.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suxiondevelopment/solarprototype/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suxiondevelopment/solarprototype/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suxiondevelopment/solarprototype/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suxiondevelopment/solarprototype/Login.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="55093fbe-6750-4296-87d5-20e94ca78faa" />
+        <option name="url" value="https://github.com/InfectedSquid/SolarPrototype.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NNET7lQ2VAcRq6nRxuq61jAN1M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Home/OneDrive - Saxion/Notes/Year 1/Quater 3/Object Oriented Programing/Week 6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "discord-application",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45b3fad7-51c8-483c-a20e-ee831a9a672c" name="Changes" comment="" />
+      <created>1679496154408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679496154408</updated>
+      <workItem from="1679496154423" duration="422000" />
+      <workItem from="1679566994242" duration="125000" />
+      <workItem from="1679567162758" duration="1309000" />
+      <workItem from="1679986633613" duration="2269000" />
+      <workItem from="1679988935569" duration="703000" />
+      <workItem from="1679989654684" duration="1884000" />
+      <workItem from="1679991567973" duration="261000" />
+      <workItem from="1679992811726" duration="10460000" />
+      <workItem from="1680006433715" duration="45000" />
+      <workItem from="1680091606218" duration="5503000" />
+      <workItem from="1680169411357" duration="75000" />
+      <workItem from="1680590499376" duration="4217000" />
+      <workItem from="1680594756208" duration="4790000" />
+      <workItem from="1680703718787" duration="1051000" />
+      <workItem from="1680724450486" duration="931000" />
+      <workItem from="1680767311347" duration="2694000" />
+      <workItem from="1681068751627" duration="35000" />
+      <workItem from="1682346007212" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

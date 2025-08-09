@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="600.0" prefWidth="800.0" spacing="20.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.suxiondevelopment.solarprototype.Login">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+
+    <Label text="ECRC Login Screen">
+      <font>
+         <Font name="System Bold" size="48.0" />
+      </font></Label>
+   <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+      <children>
+         <VBox alignment="CENTER" prefHeight="201.0" prefWidth="336.0" spacing="20.0">
+            <children>
+                <!-- id and fx:id is for us to have a point of referance for us to use in the login class. The onAction is to let the field know what it should use for input-->
+               <TextField id="usernameInput" fx:id="usernameInput" alignment="CENTER" onAction="#loginAs" prefHeight="19.0" prefWidth="296.0" promptText="User">
+                  <font>
+                     <Font size="18.0" />
+                  </font>
+               </TextField>
+                <!-- this box does not contain way to get input, as it's not necessary because it is just a dummy box to pretend that passwords are processed-->
+               <PasswordField alignment="CENTER"  prefHeight="47.0" prefWidth="296.0" promptText="Password">
+                  <font>
+                     <Font size="18.0" />
+                  </font>
+               </PasswordField>
+            </children>
+            <padding>
+               <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+            </padding>
+         </VBox>
+      </children>
+   </HBox>
+    <!-- The onAction is used to call the printUserInput method when the button is pressed.-->
+    <Button onAction="#loginAs" prefHeight="36.0" prefWidth="151.0" text="Log in" />
+   <Label fx:id="errorMessage" textFill="RED" />
+</VBox>
